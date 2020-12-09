@@ -16,15 +16,15 @@
 }
 .container {
   display: flex;
-  max-width: 675px;
+  max-width: 656px;
   width: 100%;
-  padding: 15px;
+  padding: 16px;
   margin: 0 auto;
   flex-direction: column;
   height: 100%;
   text-align: center;
   color: #ffffff;
-  
+  font-family: var(--hue-a);
 
 
 }
