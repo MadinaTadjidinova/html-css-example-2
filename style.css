@@ -12,3 +12,14 @@
 .container{
     max-width: 42em;
 }
+nav{
+    list-style-type: none;
+    float: right;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color: #ffffff;
+
+}
