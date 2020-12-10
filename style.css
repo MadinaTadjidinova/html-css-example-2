@@ -21,7 +21,7 @@
 }
 .container {
   display: flex;
-  max-width: 656px;
+  max-width: 650px;
   width: 100%;
   padding: 16px;
   margin: 0 auto;
@@ -30,9 +30,8 @@
   text-align: center;
   color: #ffffff;
 }
-nav {
+.nav {
   margin-bottom: auto;
-
   list-style-type: none;
   font-family: 'Roboto', sans-serif;
   flex-wrap: wrap;
@@ -69,5 +68,5 @@ button{
     border-radius: 4px;
 }
 footer{
-    padding: 105px
+    padding: 40px
 }
